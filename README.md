@@ -1,4 +1,4 @@
-# Placement-Oriented-Content (Codes and Aptitude Book)
+# Placement-Oriented-Content (Codes, Aptitude and Softskills)
 The Repository provides Ccontent Regarding Placement. 
 
 # Disclaimer 
